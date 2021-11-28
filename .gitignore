@@ -4,6 +4,7 @@
 /excel
 /.clinic
 *.xlsx#
+/dist
 
 # Logs
 logs
